@@ -1,1 +1,41 @@
+# Generic.
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.dylib
+
+# Exercism.
 .exercism/
+
+# Python.
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Rust.
+/target/
+Cargo.lock
+/Cargo.toml.orig
+/Cargo.toml.bak
+
+# Typescript.
+node_modules/
+dist/
+build/
+*.js.map
+*.d.ts.map
+
+# Lua.
+luac.out
+*.src.rock
+
+# Go.
+*.test
+*.prof
+.cache/go-build/
+
+# Zig.
+zig-cache/
+zig-out/
