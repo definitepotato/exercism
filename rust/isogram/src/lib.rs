@@ -9,10 +9,8 @@ pub fn check(candidate: &str) -> bool {
     let mut map = HashSet::new();
 
     for c in lower.chars() {
-        if c.is_alphabetic() {
-            if map.contains(&c) {
-                return false;
-            }
+        if c.is_alphabetic() && map.contains(&c) {
+            return false;
         }
         map.insert(c);
     }
