@@ -2905,7 +2905,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ignore", "npm:5.3.0"],\
             ["import-fresh", "npm:3.3.0"],\
             ["js-yaml", "npm:4.1.0"],\
-            ["minimatch", "npm:3.1.2"],\
+            ["minimatch", "npm:3.1.4"],\
             ["strip-json-comments", "npm:3.1.1"]\
           ],\
           "linkType": "HARD"\
@@ -2989,7 +2989,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@humanwhocodes/config-array", "npm:0.11.13"],\
             ["@humanwhocodes/object-schema", "npm:2.0.1"],\
             ["debug", "virtual:2f4f5d4be0c4271f81a756602d102e02c292a5b30d8b7f5dd19d5368d75df8bb2f1bf516e3f835c2b5501d1663eb437d4f00d6d057bcaee770b46e87267a0fa3#npm:4.3.4"],\
-            ["minimatch", "npm:3.1.2"]\
+            ["minimatch", "npm:3.1.4"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -5153,7 +5153,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["json-stable-stringify-without-jsonify", "npm:1.0.1"],\
             ["levn", "npm:0.4.1"],\
             ["lodash.merge", "npm:4.6.2"],\
-            ["minimatch", "npm:3.1.2"],\
+            ["minimatch", "npm:3.1.4"],\
             ["natural-compare", "npm:1.4.0"],\
             ["optionator", "npm:0.9.3"],\
             ["strip-ansi", "npm:6.0.1"],\
@@ -5262,7 +5262,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["hasown", "npm:2.0.0"],\
             ["is-core-module", "npm:2.13.1"],\
             ["is-glob", "npm:4.0.3"],\
-            ["minimatch", "npm:3.1.2"],\
+            ["minimatch", "npm:3.1.4"],\
             ["object.fromentries", "npm:2.0.7"],\
             ["object.groupby", "npm:1.0.1"],\
             ["object.values", "npm:1.1.7"],\
@@ -5734,7 +5734,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fs.realpath", "npm:1.0.0"],\
             ["inflight", "npm:1.0.6"],\
             ["inherits", "npm:2.0.4"],\
-            ["minimatch", "npm:3.1.2"],\
+            ["minimatch", "npm:3.1.4"],\
             ["once", "npm:1.4.0"],\
             ["path-is-absolute", "npm:1.0.1"]\
           ],\
@@ -7251,10 +7251,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["minimatch", [\
-        ["npm:3.1.2", {\
-          "packageLocation": "./.yarn/cache/minimatch-npm-3.1.2-9405269906-c154e56640.zip/node_modules/minimatch/",\
+        ["npm:3.1.4", {\
+          "packageLocation": "./.yarn/cache/minimatch-npm-3.1.4-5c2bfccba3-8bc9993c9b.zip/node_modules/minimatch/",\
           "packageDependencies": [\
-            ["minimatch", "npm:3.1.2"],\
+            ["minimatch", "npm:3.1.4"],\
             ["brace-expansion", "npm:1.1.11"]\
           ],\
           "linkType": "HARD"\
@@ -8506,7 +8506,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["test-exclude", "npm:6.0.0"],\
             ["@istanbuljs/schema", "npm:0.1.3"],\
             ["glob", "npm:7.2.3"],\
-            ["minimatch", "npm:3.1.2"]\
+            ["minimatch", "npm:3.1.4"]\
           ],\
           "linkType": "HARD"\
         }]\
